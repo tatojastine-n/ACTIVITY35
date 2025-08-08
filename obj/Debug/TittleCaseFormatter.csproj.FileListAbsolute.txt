@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TittleCaseFormatter\obj\Debug\TittleCaseFormatter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TittleCaseFormatter\obj\Debug\TittleCaseFormatter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TittleCaseFormatter\bin\Debug\TittleCaseFormatter.exe.config
+C:\Users\HP\source\repos\TittleCaseFormatter\bin\Debug\TittleCaseFormatter.exe
+C:\Users\HP\source\repos\TittleCaseFormatter\bin\Debug\TittleCaseFormatter.pdb
+C:\Users\HP\source\repos\TittleCaseFormatter\obj\Debug\TittleCaseFormatter.exe
+C:\Users\HP\source\repos\TittleCaseFormatter\obj\Debug\TittleCaseFormatter.pdb
